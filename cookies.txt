@@ -1,0 +1,12 @@
+Get cookies.txt for https://gemini.google.com/app/6f6ecb13c653b349
+
+Export
+download
+
+Export As
+download
+
+Copy
+content_paste
+
+Export All Cookies
